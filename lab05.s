@@ -80,6 +80,8 @@ taken:
 # There should be no stalls
 # ----------------------------------------------------------------------------------------
     # nop instructions added between examples
+	
+	
     add  zero, zero, zero  
     add  zero, zero, zero  
     add  zero, zero, zero  
